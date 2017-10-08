@@ -1,6 +1,6 @@
 # TypeForm Webhook Django
 
-Typeform Webhook helps to save the user data into your server using the JSON payload sent by typeform to the given API. Feel free to use the code for creating the API.
+Typeform Webhook helps to save the user data into your server using the JSON payload sent by typeform to the given API.
 
 ### Installation
 Create a virtualenv and type `pip install -r requirements.txt.` to setup the dependencies.
@@ -13,4 +13,4 @@ Read the docs to know the implementation
 http://127.0.0.1:8000/typeapi/add/
 
 ### Issues?
-Issues are always welcomed ! If you find a bug, create an issue. 
+Issues are always welcomed ! If you find a bug, create an issue.
